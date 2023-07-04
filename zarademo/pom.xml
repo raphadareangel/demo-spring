@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.zarademo</groupId>
-	<artifactId>product</artifactId>
+	<artifactId>zaraBasic</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>inditex-zara</name>
 	<description>precio producto zara</description>
